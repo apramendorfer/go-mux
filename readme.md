@@ -1,0 +1,1 @@
+![workflow](https://github.com/apramendorfer/go-mux/actions/workflows/go.yml/badge.svg)
